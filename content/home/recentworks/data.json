@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "name": "Genesis",
+        "image": "/Genesis.png",
+        "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofgIvg4GB8Ff6b6TTWBdsSVr",
+        "items": [
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofgIvg4GB8Ff6b6TTWBdsSVr"
+            },
+            {
+                "name": "Spotify",
+                "url": "https://open.spotify.com/show/2hBbZa7wTHbFjB4kDjcI3m"
+            },
+            {
+                "name": "Google Podcast",
+                "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MjRiNmUzYy9wb2RjYXN0L3Jzcw"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Acts",
+        "image": "/Acts.png",
+        "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofjxjklfl0dzIe5BwHS0wLRA",
+        "items": [
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofjxjklfl0dzIe5BwHS0wLRA"
+            },
+            {
+                "name": "Spotify",
+                "url": "https://open.spotify.com/show/2hBbZa7wTHbFjB4kDjcI3m"
+            },
+            {
+                "name": "Google Podcast",
+                "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MjRiNmUzYy9wb2RjYXN0L3Jzcw"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "image": "/John.png",
+        "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofiQchPuz7sh69KZnCYg8rRS",
+        "items": [
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofiQchPuz7sh69KZnCYg8rRS"
+            },
+            {
+                "name": "Spotify",
+                "url": "https://open.spotify.com/show/2hBbZa7wTHbFjB4kDjcI3m"
+            },
+            {
+                "name": "Google Podcast",
+                "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MjRiNmUzYy9wb2RjYXN0L3Jzcw"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Matthew",
+        "image": "/Matthew.png",
+        "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofh8xLQIyKl5yy8bU6dsHZQm",
+        "items": [
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/playlist?list=PL_4RkDFUhofh8xLQIyKl5yy8bU6dsHZQm"
+            },
+            {
+                "name": "Spotify",
+                "url": "https://open.spotify.com/show/2hBbZa7wTHbFjB4kDjcI3m"
+            },
+            {
+                "name": "Google Podcast",
+                "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MjRiNmUzYy9wb2RjYXN0L3Jzcw"
+            }
+        ]
+    }
+       
+]

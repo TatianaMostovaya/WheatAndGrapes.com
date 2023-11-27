@@ -1,0 +1,50 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Wheat and Grapes'
+theme = "hugo-initio"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+    name = "Wheat and Grapes"
+    description = "Podcast"
+    email = ""
+    phone = ""
+    address = ""
+    year = 2024
+    avatar = "/Grapes_logo.png"
+    avatarclass = "circle"
+    background = ""
+    banner = "/Wheat_background.jpg"
+    favicon = "/Wheat&Grapes_logo.png"
+    DateForm = ""
+    author = "Tatiana Mostovaya"
+    showServices = false
+    showRecentWorks = true
+    showSubheader = true
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = true
+    showFooterFormWidget = true
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "about"
+    url = "/about"
+    weight = 3
+[[menu.main]]
+    name = "contact"
+    url = "/contact"
+    weight = 5
+
+ 
+
+
+
+
+
+ 
