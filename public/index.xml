@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wheat and Grapes</title>
-    <link>wheatandgrapes.com/</link>
+    <link>https://wheatandgrapes.com/</link>
     <description>Recent content on Wheat and Grapes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="wheatandgrapes.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://wheatandgrapes.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>wheatandgrapes.com/about/</link>
+      <link>https://wheatandgrapes.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>wheatandgrapes.com/about/</guid>
+      <guid>https://wheatandgrapes.com/about/</guid>
       <description>Wheat and grapes podcast
 YouTube Spotify Listen Wheat and Grapes on Spotify
 Google Podcast Listen Wheat and Grapes on Google Podcast
@@ -22,10 +22,10 @@ Every contribution, big or small, helps us continue bringing you the content you
     
     <item>
       <title>Contact us</title>
-      <link>wheatandgrapes.com/contact/</link>
+      <link>https://wheatandgrapes.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>wheatandgrapes.com/contact/</guid>
+      <guid>https://wheatandgrapes.com/contact/</guid>
       <description>Location View our location on the map:
 Contact Form To contact us, please fill out the form below:
 Formulario de ContactoYour email:Your message:Send</description>
@@ -33,10 +33,10 @@ Formulario de ContactoYour email:Your message:Send</description>
     
     <item>
       <title></title>
-      <link>wheatandgrapes.com/home/subheader/</link>
+      <link>https://wheatandgrapes.com/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>wheatandgrapes.com/home/subheader/</guid>
+      <guid>https://wheatandgrapes.com/home/subheader/</guid>
       <description>Don’t miss out on any of our episodes. Subscribe to our newsletter for the latest updates, episode releases, and exclusive content from &amp;ldquo;Wheat and Grapes.&amp;rdquo;</description>
     </item>
     

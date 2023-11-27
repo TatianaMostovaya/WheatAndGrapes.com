@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent Playlists on Wheat and Grapes</title>
-    <link>wheatandgrapes.com/home/recentworks/</link>
+    <link>https://wheatandgrapes.com/home/recentworks/</link>
     <description>Recent content in Recent Playlists on Wheat and Grapes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="wheatandgrapes.com/home/recentworks/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://wheatandgrapes.com/home/recentworks/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
