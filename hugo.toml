@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'wheatandgrapes.com'
 languageCode = 'en-us'
 title = 'Wheat and Grapes'
 theme = "hugo-initio"
